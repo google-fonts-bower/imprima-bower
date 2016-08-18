@@ -1,0 +1,17 @@
+{
+    "name": "imprima-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Eduardo Tunni"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/imprima-bower.git"
+    },
+    "description": "Imprima font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
